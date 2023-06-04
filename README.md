@@ -12,11 +12,11 @@ Project using Typescript, React, rawg.io API, ChakraUI
 
 1. Clone the repository:
 
-- git clone https://github.com/WojciechChuchro/E-CommerceWebsite.git
+- git clone https://github.com/WojciechChuchro/Gamehub.git
 
 2. Navigate to the project directory:
 
-- cd E-CommerceWebsite
+- cd Gamehub
 
 3. Install project dependencies:
 
